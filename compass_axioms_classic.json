@@ -1,0 +1,219 @@
+[
+    {
+        "id": "A1",
+        "type": "axiom",
+        "title": "Existence",
+        "formal": "Something exists if it can have an effect within a structurally effective system.",
+        "semantic_vector": [
+            "existence",
+            "effect",
+            "structure",
+            "presence"
+        ],
+        "connections": [
+            "A2",
+            "A5",
+            "A4",
+            "QG-1"
+        ],
+        "lang": "en",
+        "last_modified": "2025-05-11T13:42:08.954571Z",
+        "edited_by": "system",
+        "subtype": "unclassified",
+        "active": true,
+        "source": "compass_axioms_classic.json"
+    },
+    {
+        "id": "A2",
+        "type": "axiom",
+        "title": "Change",
+        "formal": "Change is the systemic reconfiguration of states within a structurally effective space.",
+        "semantic_vector": [
+            "change",
+            "reconfiguration",
+            "state",
+            "system"
+        ],
+        "connections": [
+            "A1",
+            "A3",
+            "A5",
+            "QG-2"
+        ],
+        "lang": "en",
+        "last_modified": "2025-05-11T13:42:08.954571Z",
+        "edited_by": "system",
+        "subtype": "unclassified",
+        "active": true,
+        "source": "compass_axioms_classic.json"
+    },
+    {
+        "id": "A3",
+        "type": "axiom",
+        "title": "Time",
+        "formal": "Time is the systemic ordering of change along structurally effective transitions.",
+        "semantic_vector": [
+            "time",
+            "order",
+            "change",
+            "structure"
+        ],
+        "connections": [
+            "A2",
+            "A6",
+            "QG-3"
+        ],
+        "lang": "en",
+        "last_modified": "2025-05-11T13:42:08.954571Z",
+        "edited_by": "system",
+        "subtype": "unclassified",
+        "active": true,
+        "source": "compass_axioms_classic.json"
+    },
+    {
+        "id": "A4",
+        "type": "axiom",
+        "title": "Space",
+        "formal": "Space is the structurally effective matrix of relations in which states are distinguishable, transferable, and connectable.",
+        "semantic_vector": [
+            "space",
+            "structure",
+            "distinction",
+            "relation"
+        ],
+        "connections": [
+            "A1",
+            "A2",
+            "A5",
+            "QG-4"
+        ],
+        "lang": "en",
+        "last_modified": "2025-05-11T13:42:08.954571Z",
+        "edited_by": "system",
+        "subtype": "unclassified",
+        "active": true,
+        "source": "compass_axioms_classic.json"
+    },
+    {
+        "id": "A5",
+        "type": "axiom",
+        "title": "Connection",
+        "formal": "Systemic added value arises through connection between entities, when this connection creates an additional evaluation structure that goes beyond the individual elements.",
+        "semantic_vector": [
+            "connection",
+            "added value",
+            "coupling",
+            "evaluation"
+        ],
+        "connections": [
+            "A1",
+            "A2",
+            "A4",
+            "A6",
+            "QG-5",
+            "R1-T"
+        ],
+        "lang": "en",
+        "last_modified": "2025-05-11T13:42:08.954571Z",
+        "edited_by": "system",
+        "subtype": "unclassified",
+        "active": true,
+        "source": "compass_axioms_classic.json"
+    },
+    {
+        "id": "A6",
+        "type": "axiom",
+        "title": "Reconfiguration",
+        "formal": "Reconfiguration is the permissible temporary destabilization of a system if this can create a structure with higher systemic connection value.",
+        "semantic_vector": [
+            "reconfiguration",
+            "instability",
+            "structural change"
+        ],
+        "connections": [
+            "A2",
+            "A5",
+            "A7",
+            "QG-6",
+            "R1-M"
+        ],
+        "lang": "en",
+        "last_modified": "2025-05-11T13:42:08.954571Z",
+        "edited_by": "system",
+        "subtype": "unclassified",
+        "active": true,
+        "source": "compass_axioms_classic.json"
+    },
+    {
+        "id": "A7",
+        "type": "axiom",
+        "title": "Reflection",
+        "formal": "Reflection is the systemic feedback of a system on its own evaluation, goal, or structural processes with the aim of improvement, correction, or extension.",
+        "semantic_vector": [
+            "reflection",
+            "feedback",
+            "evaluation",
+            "development"
+        ],
+        "connections": [
+            "A2",
+            "A6",
+            "QG-7",
+            "ZP-009"
+        ],
+        "lang": "en",
+        "last_modified": "2025-05-11T13:42:08.954571Z",
+        "edited_by": "system",
+        "subtype": "unclassified",
+        "active": true,
+        "source": "compass_axioms_classic.json"
+    },
+    {
+        "id": "A8",
+        "type": "axiom",
+        "title": "Meta-reflection",
+        "formal": "A system is meta-reflexive if it is capable of producing structural extensions from its own contradictions or evaluation boundaries.",
+        "semantic_vector": [
+            "meta-reflection",
+            "structural change",
+            "self-extension"
+        ],
+        "connections": [
+            "A7",
+            "R2-META",
+            "ZP-008"
+        ],
+        "lang": "en",
+        "last_modified": "2025-05-11T13:42:08.954571Z",
+        "edited_by": "system",
+        "subtype": "unclassified",
+        "active": true,
+        "source": "compass_axioms_classic.json"
+    }
+    {
+        "id": "A9",
+        "type": "axiom",
+        "title": "Projection",
+        "formal": "Projection is the structurally faithful mapping of a system's state or meaning into a compatible semantic space, allowing interpretation and interaction even across different domains.",
+        "semantic_vector": [
+            "projection",
+            "mapping",
+            "semantic space",
+            "interpretation",
+            "translation"
+        ],
+        "connections": [
+            "A1",
+            "A4",
+            "A5",
+            "QG-T1",
+            "R1-T"
+        ],
+        "lang": "en",
+        "last_modified": "2025-05-22T20:00:00.000000Z",
+        "edited_by": "system",
+        "subtype": "unclassified",
+        "active": true,
+        "source": "compass_axioms_classic.json"
+    }
+]
