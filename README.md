@@ -1,6 +1,6 @@
 # COMPASS-Framework-Prompt-Demos
 
-**Short Description:** Explore COMPASS Framework principles via prompt engineering. Demos illustrate axiomatic validation & resonance testing to reduce LLM hallucination and boost output coherence. Compatible with Mistral AI (Le Chat), Gemini 2.5 Flash, & ChatGPT 4.0. Practical, reproducible examples complementing the full framework implementation.
+**Short Description:** Explore COMPASS Framework principles via prompt engineering. Demos illustrate axiomatic validation & resonance testing to reduce LLM hallucination and boost output coherence. Compatible with Mistral AI (Le Chat), Gemini 2.5 Flash, & ChatGPT 4.0. Practical, reproducible examples complementing the full framework implementation. [Link to main repo]
 
 ## 🌟 Introduction
 
@@ -53,6 +53,10 @@ We welcome your feedback and contributions! If you have ideas for new prompts, i
 
 ## 📄 License
 
-[Insert chosen license here, e.g., MIT License]
+This project is licensed under the **MIT License**.
+
+Copyright (c) 2025 David William Peter Plumb
+
+For the full license text, please see the [LICENSE file](LICENSE) in this repository.
 
 ---
