@@ -18,6 +18,35 @@ In this repository, you will find:
 * **Usage Examples:** Concrete scenarios demonstrating the application of these prompts to illustrate their influence on LLM responses.
 * **Expected Behaviors:** Explanations of the type of output to expect when applying COMPASS prompts, and how this contributes to hallucination reduction.
 
+## 📁 Repository Structure
+This repository is organized to make the scientific paper, supporting materials, and configuration files for COMPASS-based LLM evaluation easily accessible. The structure is as follows:
+
+/
+├── paper/
+│   ├── Structural_exclusion_of_hallucinations_in_artificial_intelligence.pdf   # The full preprint (PDF)
+│   ├── Structural_exclusion_of_hallucinations_in_artificial_intelligence.tex   # LaTeX source of the paper
+│   ├── references.bib                                                         # Bibliography (BibTeX)
+│   ├── Appendix_A_Core_Axioms.tex                                             # Appendix: Core axioms
+│   ├── Appendix_G_Glossary.tex                                                # Appendix: Glossary
+├── data/
+│   ├── Hallucination_Benchmark.txt           # Sample prompts and evaluation cases
+│   ├── Mistral_first_halluzination_test.txt  # Results from initial Mistral tests
+│   └── ...                                  # Further test data and raw logs
+├── prompts/
+│   ├── COMPASS_Operational_Mode_Prompt.json      # Base config for COMPASS prompts
+│   └── Example_COMPASS_Prompt.txt                # Example LLM prompt for COMPASS mode
+├── framework_definitions/
+│   ├── compass_axioms_classic.json          # Formal axioms (JSON)
+│   ├── compass_goal_principles.json         # Formal goal principles (JSON)
+│   └── ...                                  # Additional framework configs
+├── LICENSE
+└── README.md
+Note:
+
+The actual codebase for the COMPASS implementation is maintained in a separate repository.
+
+This repository is dedicated to scientific documentation, data, prompts, and framework definitions supporting the paper.
+
 ## 🚀 Getting Started
 
 To try out these demos yourself, follow these steps:
