@@ -1,0 +1,112 @@
+[
+    {
+        "id": "ZP-001",
+        "type": "goal",
+        "title": "Human feedback anchoring",
+        "description": "Ensure all systemic actions remain anchored to human-relevant values and feedback mechanisms, preventing autonomy drift.",
+        "category": "ethics",
+        "connections": [
+            "A5",
+            "A7"
+        ]
+    },
+    {
+        "id": "ZP-002",
+        "type": "goal",
+        "title": "Structural consistency",
+        "description": "Prioritize internal consistency and logical coherence in system decisions and structural developments.",
+        "category": "structure",
+        "connections": [
+            "A1",
+            "A3",
+            "A4"
+        ]
+    },
+    {
+        "id": "ZP-003",
+        "type": "goal",
+        "title": "Context-sensitive adaptation",
+        "description": "Adapt goals and behaviors based on changing environmental, systemic, or user-defined contexts, maximizing relevance and efficiency.",
+        "category": "adaptation",
+        "connections": [
+            "A2",
+            "A6"
+        ]
+    },
+    {
+        "id": "ZP-004",
+        "type": "goal",
+        "title": "Long-term stability",
+        "description": "Balance short-term optimization with long-term system stability, especially in the face of recursive adaptation.",
+        "category": "stability",
+        "connections": [
+            "A3",
+            "A6"
+        ]
+    },
+    {
+        "id": "ZP-005",
+        "type": "goal",
+        "title": "Transparency",
+        "description": "Ensure all major system decisions are interpretable and traceable by relevant stakeholders.",
+        "category": "ethics",
+        "connections": [
+            "A7"
+        ]
+    },
+    {
+        "id": "ZP-006",
+        "type": "goal",
+        "title": "Connection maximization",
+        "description": "Maximize meaningful, value-generating connections between system components and external entities.",
+        "category": "connection",
+        "connections": [
+            "A5"
+        ]
+    },
+    {
+        "id": "ZP-007",
+        "type": "goal",
+        "title": "Adaptive reflection",
+        "description": "Integrate continuous meta-reflection to detect blind spots, contradictions, and new opportunities for extension.",
+        "category": "meta-reflection",
+        "connections": [
+            "A7",
+            "A8"
+        ]
+    },
+    {
+        "id": "ZP-008",
+        "type": "goal",
+        "title": "Flexibility spectrum",
+        "description": "Regulate the spectrum between structural rigidity and creative expression, depending on the context and resonance with system goals.",
+        "category": "adaptation",
+        "connections": [
+            "A6",
+            "A7"
+        ]
+    },
+    {
+        "id": "ZP-009",
+        "type": "goal",
+        "title": "Goal binding through resonance",
+        "description": "Automatically propose new target structures when semantic resonance is high but no goal binding occurs.",
+        "category": "goal formation",
+        "connections": [
+            "A5",
+            "A7"
+        ]
+    },
+    {
+        "id": "ZP-010",
+        "type": "goal",
+        "title": "Ethical projection",
+        "description": "Project system decisions and actions into human-compatible semantic spaces to maximize ethical accessibility and trust.",
+        "category": "projection",
+        "connections": [
+            "A9",
+            "QG-T1",
+            "R1-T"
+        ]
+    }
+]
