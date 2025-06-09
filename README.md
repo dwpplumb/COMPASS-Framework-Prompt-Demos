@@ -21,24 +21,24 @@ In this repository, you will find:
 ## 📁 Repository Structure
 This repository is organized to make the scientific paper, supporting materials, and configuration files for COMPASS-based LLM evaluation easily accessible. The structure is as follows:
 
-/
-├── paper/
-│   ├── Structural_exclusion_of_hallucinations_in_artificial_intelligence.pdf   # The full preprint (PDF)
-│   ├── Structural_exclusion_of_hallucinations_in_artificial_intelligence.tex   # LaTeX source of the paper
-│   ├── references.bib                                                         # Bibliography (BibTeX)
-│   ├── Appendix_A_Core_Axioms.tex                                             # Appendix: Core axioms
-│   ├── Appendix_G_Glossary.tex                                                # Appendix: Glossary
-├── data/
-│   ├── Hallucination_Benchmark.txt           # Sample prompts and evaluation cases
-│   ├── Mistral_halluzination_test_data.txt  # Results from initial Mistral tests
-│   └── ...                                  # Further test data and raw logs
-├── prompts/
-│   ├── COMPASS_Operational_Mode_Prompt.txt      # Base config for COMPASS prompts
-│   ├── compass_axioms_classic.json
-│   ├── compass_goal_principles.json
-│   └── LLM_Emotional_Evolution_Prompt.md               
-├── LICENSE
-└── README.md
+/  
+├── paper/  
+│   ├── Structural_exclusion_of_hallucinations_in_artificial_intelligence.pdf   # The full preprint (PDF)  
+│   ├── Structural_exclusion_of_hallucinations_in_artificial_intelligence.tex   # LaTeX source of the paper  
+│   ├── references.bib                                                         # Bibliography (BibTeX)  
+│   ├── Appendix_A_Core_Axioms.tex                                             # Appendix: Core axioms  
+│   ├── Appendix_G_Glossary.tex                                                # Appendix: Glossary  
+├── data/  
+│   ├── Hallucination_Benchmark.txt           # Sample prompts and evaluation cases  
+│   ├── Mistral_halluzination_test_data.txt  # Results from initial Mistral tests  
+│   └── ...                                  # Further test data and raw logs  
+├── prompts/  
+│   ├── COMPASS_Operational_Mode_Prompt.txt      # Base config for COMPASS prompts  
+│   ├── compass_axioms_classic.json  
+│   ├── compass_goal_principles.json  
+│   └── LLM_Emotional_Evolution_Prompt.md                 
+├── LICENSE  
+└── README.md  
 Note:
 
 The actual codebase for the COMPASS implementation is maintained in a separate repository.
