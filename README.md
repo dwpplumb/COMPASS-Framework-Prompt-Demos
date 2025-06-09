@@ -30,15 +30,13 @@ This repository is organized to make the scientific paper, supporting materials,
 │   ├── Appendix_G_Glossary.tex                                                # Appendix: Glossary
 ├── data/
 │   ├── Hallucination_Benchmark.txt           # Sample prompts and evaluation cases
-│   ├── Mistral_first_halluzination_test.txt  # Results from initial Mistral tests
+│   ├── Mistral_halluzination_test_data.txt  # Results from initial Mistral tests
 │   └── ...                                  # Further test data and raw logs
 ├── prompts/
-│   ├── COMPASS_Operational_Mode_Prompt.json      # Base config for COMPASS prompts
-│   └── Example_COMPASS_Prompt.txt                # Example LLM prompt for COMPASS mode
-├── framework_definitions/
-│   ├── compass_axioms_classic.json          # Formal axioms (JSON)
-│   ├── compass_goal_principles.json         # Formal goal principles (JSON)
-│   └── ...                                  # Additional framework configs
+│   ├── COMPASS_Operational_Mode_Prompt.txt      # Base config for COMPASS prompts
+│   ├── compass_axioms_classic.json
+│   ├── compass_goal_principles.json
+│   └── LLM_Emotional_Evolution_Prompt.md               
 ├── LICENSE
 └── README.md
 Note:
